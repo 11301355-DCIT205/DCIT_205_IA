@@ -63,8 +63,8 @@ button {
     padding: 1rem 3rem;
     font-size: 1rem;
     border-radius: 25px;
-    color:burlywood;
-    background-color: black;
+    color:#f2f2f2;
+    background-color: burlywood;
     cursor: pointer;
 }
 
@@ -74,6 +74,15 @@ button {
     align-items: center;
     padding: 0rem 2rem;
 }
+
+button:hover{
+    transform: scale(1.2);
+    background-color: transparent;
+    color: #ffcc74;
+    transition: .4s;
+    cursor: pointer;
+}
+
 
 .footer {
     font-size:20px;
