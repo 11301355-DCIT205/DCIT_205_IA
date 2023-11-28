@@ -1,19 +1,22 @@
 # 11301355 - readme
 
--name:Enchill Brian SPKA
+-name: Enchill Brian SPKA
 -studentid 11301355
 
-Interim Assesment
+Interim Assessment
 
 Assigned by our Web Design Lecturer for an Interim Assessment, we undertook the task of replicating the University of Ghana Legon's Computer Science Department website.
 
-![Screenshot (27)](https://github.com/11301355-DCIT205/DCIT_205_IA/assets/150909770/f9344065-9446-4810-914d-d02295c3e874)
-![Screenshot (26)](https://github.com/11301355-DCIT205/DCIT_205_IA/assets/150909770/f69e962c-97fb-434d-99e3-74a0c11bb2a7)
-![Screenshot (25)](https://github.com/11301355-DCIT205/DCIT_205_IA/assets/150909770/53d28a5a-8ed2-4887-bd22-1f18600a8b0a)
-![Screenshot (12)](https://github.com/11301355-DCIT205/DCIT_205_IA/assets/150909770/6ce905a0-b20d-4f9b-9007-13539104a47f)
-![Screenshot (33)](https://github.com/11301355-DCIT205/DCIT_205_IA/assets/150909770/e8b89ccc-ad47-43a0-aca0-e8320a09366f)
-![Screenshot (32)](https://github.com/11301355-DCIT205/DCIT_205_IA/assets/150909770/f129aabb-122b-4085-ae5a-eddea731ad47)
-![Screenshot (31)](https://github.com/11301355-DCIT205/DCIT_205_IA/assets/150909770/30f4cf82-206c-4632-9123-df1dee56cd1b)
-![Screenshot (30)](https://github.com/11301355-DCIT205/DCIT_205_IA/assets/150909770/204ff98e-b365-49e8-bc98-df9504fb9504)
-![Screenshot (29)](https://github.com/11301355-DCIT205/DCIT_205_IA/assets/150909770/00d24f92-5a4d-4146-9bf7-cc40fb9f14d5)
-![Screenshot (28)](https://github.com/11301355-DCIT205/DCIT_205_IA/assets/150909770/0bb9e94d-a07d-43d9-baa2-6d05bf6be1e8)
+
+![Screenshot (38)](https://github.com/11301355-DCIT205/DCIT_205_IA/assets/150909770/b11d8cb4-1f79-46cf-bf00-d39a217d2fea)
+![Screenshot (37)](https://github.com/11301355-DCIT205/DCIT_205_IA/assets/150909770/8ff35755-391a-404e-8f7c-1737df65e514)
+![Screenshot (36)](https://github.com/11301355-DCIT205/DCIT_205_IA/assets/150909770/dfb0ae84-0e12-40d8-8568-a5b9b6226235)
+![Screenshot (35)](https://github.com/11301355-DCIT205/DCIT_205_IA/assets/150909770/8c0bc8e7-e71e-441b-b2e2-676670a13f03)
+![Screenshot (34)](https://github.com/11301355-DCIT205/DCIT_205_IA/assets/150909770/8498c776-90ab-4d50-8ce5-880ae3a5087e)
+![Screenshot (43)](https://github.com/11301355-DCIT205/DCIT_205_IA/assets/150909770/b8251863-2cc2-41d8-9f0b-5673e6fdc8ba)
+![Screenshot (42)](https://github.com/11301355-DCIT205/DCIT_205_IA/assets/150909770/2388f21c-60aa-4909-bc45-6a32d372eb83)
+![Screenshot (41)](https://github.com/11301355-DCIT205/DCIT_205_IA/assets/150909770/074eabf1-2138-45f7-9fe9-3f97e71faab2)
+![Screenshot (40)](https://github.com/11301355-DCIT205/DCIT_205_IA/assets/150909770/f3e9f2c0-a486-44e5-82c9-4e9c7cc9241b)
+![Screenshot (39)](https://github.com/11301355-DCIT205/DCIT_205_IA/assets/150909770/72429cad-ddb5-4223-961a-02203f5405b1)
+
+This project taught me that we could do anything we put our minds to very well .
